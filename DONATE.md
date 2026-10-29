@@ -49,10 +49,10 @@ bc1q6nvqcw53r36w9gsjw429d6v3reshjr0pn8frrm
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&margin=10&data=TCe57bLA4KBqcPc3ApKauE4VHLd3WqW1WT" width="160" height="160" alt="Tron TRC-20 address QR code"></td>
-    <td align="center"><img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&margin=10&data=UQAEvC5puI21Z5OtPTo6SilVWtElgyZXvH8VIHLLKGxRL4AO" width="160" height="160" alt="TON address QR code"></td>
-    <td align="center"><img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&margin=10&data=bc1q6nvqcw53r36w9gsjw429d6v3reshjr0pn8frrm" width="160" height="160" alt="Bitcoin address QR code"></td>
-    <td align="center"><img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&margin=10&data=0xdcE037bdF1c580A98D58815C508F7B4d7f7c4603" width="160" height="160" alt="EVM address QR code"></td>
+    <td align="center"><img src="./assets/qr-tron.png" width="200" alt="Tron TRC-20 address QR code"></td>
+    <td align="center"><img src="./assets/qr-ton.png" width="200" alt="TON address QR code"></td>
+    <td align="center"><img src="./assets/qr-btc.png" width="200" alt="Bitcoin address QR code"></td>
+    <td align="center"><img src="./assets/qr-eth.png" width="200" alt="EVM address QR code"></td>
   </tr>
   <tr>
     <td align="center"><b>USDT · TRX</b><br><sub>Tron · TRC-20</sub></td>
