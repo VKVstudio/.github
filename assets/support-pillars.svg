@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%" role="img" aria-label="Where support goes: maintenance, research, new tools">
+  <rect x="0.75" y="0.75" width="898.5" height="118.5" rx="12" fill="#0c1115" stroke="#223036" stroke-width="1.5"/>
+  <line x1="300" y1="22" x2="300" y2="98" stroke="#1c292e"/>
+  <line x1="600" y1="22" x2="600" y2="98" stroke="#1c292e"/>
+
+  <g font-family="Segoe UI, sans-serif">
+    <text x="30" y="36" font-family="Consolas, monospace" font-size="10" font-weight="700" fill="#64748b" letter-spacing="1.6">01 / KEEP</text>
+    <text x="30" y="66" font-size="17" font-weight="700" fill="#f8fafc">Maintenance</text>
+    <text x="30" y="90" font-size="12" font-weight="600" fill="#34d399">Fixes, updates, documentation</text>
+
+    <text x="330" y="36" font-family="Consolas, monospace" font-size="10" font-weight="700" fill="#64748b" letter-spacing="1.6">02 / EXPLORE</text>
+    <text x="330" y="66" font-size="17" font-weight="700" fill="#f8fafc">Research</text>
+    <text x="330" y="90" font-size="12" font-weight="600" fill="#34d399">Experiments, benchmarks, write-ups</text>
+
+    <text x="630" y="36" font-family="Consolas, monospace" font-size="10" font-weight="700" fill="#64748b" letter-spacing="1.6">03 / SHIP</text>
+    <text x="630" y="66" font-size="17" font-weight="700" fill="#f8fafc">New tools</text>
+    <text x="630" y="90" font-size="12" font-weight="600" fill="#34d399">More free utilities, in the open</text>
+  </g>
+</svg>

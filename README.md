@@ -1,9 +1,7 @@
 <div align="center">
-
-### VKVstudio · community health files
-
-Default funding settings for all public repositories of [@VKVstudio](https://github.com/VKVstudio).
-
-[![Support my work](https://img.shields.io/badge/Support_my_work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](DONATE.md)
-
+  <a href="./DONATE.md"><img src="./assets/donate-hero.svg" alt="Support the work - VKVstudio" width="100%" /></a>
+  <br><br>
+  <sub>Default community health files for all public repositories of <a href="https://github.com/VKVstudio">@VKVstudio</a>.</sub>
+  <br><br>
+  <a href="./DONATE.md"><img src="./assets/support-button.svg" alt="Support the work" height="40" /></a>
 </div>
